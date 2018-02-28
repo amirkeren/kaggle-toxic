@@ -3,3 +3,4 @@
 **.pyc
 *.csv
 *.ckpt
+nohup.out
